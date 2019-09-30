@@ -10,7 +10,7 @@ django-allauth==0.35.0
 django-follow==0.6.1
 django-rest-auth==0.9.3
 django-url-filter==0.3.5
-djangorestframework==3.7.7
+djangorestframework==3.9.1
 djangorestframework-jwt==1.11.0
 djangorestframework-jwt-refresh-token==0.5
 docutils==0.14
